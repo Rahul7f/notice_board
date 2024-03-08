@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "765257070561",
+    "firebase_url": "https://noticeboard-1afde-default-rtdb.firebaseio.com",
+    "project_id": "noticeboard-1afde",
+    "storage_bucket": "noticeboard-1afde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765257070561:android:f363da52e80197721904a0",
+        "android_client_info": {
+          "package_name": "com.example.notice_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AZWBBv1ugmZgFFyqEvHH4WueP6CIi3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
